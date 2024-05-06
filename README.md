@@ -53,7 +53,7 @@ We used the [text embeddings](https://github.com/reedscot/icml2016) provided by 
 ## Usage
 ### Training
 
-`python runtime.py
+`python NM_AI.py
 
 **Arguments:**
 - `type` : GAN archiecture to use `(gan | wgan | vanilla_gan | vanilla_wgan)`. default = `gan`. Vanilla mean not conditional
